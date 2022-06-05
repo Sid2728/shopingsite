@@ -1,0 +1,81 @@
+
+  body{
+    background: rgb(34,121,15);
+    background: linear-gradient(126deg, rgba(34,121,15,0.9240291819852942) 1%, rgba(30,199,93,0.6047014508928572) 42%, rgba(199,214,24,0.6495193780637255) 64%, rgba(227,224,94,0.7923765209208684) 100%, rgba(238,209,0,1) 100%);}
+  
+.container1{
+  
+  
+    background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+
+    text-align: center;
+   margin: 0px 0px 0px 0px;
+
+ 
+   
+}
+.intro{
+    font-size: 32px;
+    padding-bottom: 0px;
+    font-family: 'Cookie', cursive;
+    color: white;
+    margin-bottom: 0px;
+}
+.Name{
+    font-size: 60px;
+    margin-top: 0px;
+    font-family: 'Cookie', cursive;
+    color: white;
+}
+.image{
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    
+
+}
+.Heading{
+    font-size: 32px;
+    color: rgb(255, 255, 255);
+    margin-bottom: 0px;
+    margin-left: 30px;
+}
+.container2{
+    background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+
+   padding-top: 50px;
+}
+.icon{
+    width: 100px;
+    height: 100px;
+    margin-left: 60px;
+}
+.images{
+    margin-left: 100px;
+    padding-left: 10px;
+}
+.container3{
+    
+    background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+    padding-top: 50px;
+
+}
+.Hobbies{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    margin-left: 30px;
+
+}
+img:hover{
+  
+    transform:scale(1.05);
+    filter: drop-shadow(0px 10px 3px rgb(155, 155, 155));
+    
+    
+}
+.hr{
+    margin-top: 0px;
+    margin-bottom: 30px;
+    border-width: 2px;
+}
+
